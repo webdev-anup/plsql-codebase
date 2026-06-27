@@ -3,7 +3,7 @@
 # PL/SQL Codebase
 
 ## 📌 Overview
-This repository contains a collection of PL/SQL scripts and examples created for practice, learning, and portfolio showcase. It demonstrates fundamental and advanced concepts of Oracle PL/SQL programming, including arithmetic operations, string functions, cursors, triggers, and exception handling.
+This repository contains a collection of PL/SQL scripts and examples created for practice, learning, and portfolio showcase. It demonstrates fundamental and advanced concepts of Oracle PL/SQL programming, including arithmetic operations, string functions, cursors, triggers, and exception handling more.
 
 ## 🎯 Objectives
 - Strengthen PL/SQL programming skills
