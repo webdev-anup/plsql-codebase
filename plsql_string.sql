@@ -1,0 +1,10 @@
+DECLARE
+    text VARCHAR2(100) := 'HELLO PROCEDURAL LANGUAGE STRUCTURED QUERY LANGUAGE';
+    i NUMBER := 1;
+BEGIN
+    WHILE i <= LENGTH(text) LOOP
+        DBMS_OUTPUT.PUT_LINE(SUBSTR(text, i, 1));
+        i := i + 1;
+    END LOOP;
+END;
+/
